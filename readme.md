@@ -16,8 +16,8 @@ Cuando se generan muchas guías diarias, organizarlas manualmente es lento y pro
   
 --/Julio_Quincena1/
 -- 01.07.25/
- --- ASG833/
- --- [PDF]
+--- ASG833/
+--- [PDF]
 ---
 
 ## ▶️ ¿Cómo se usa?
