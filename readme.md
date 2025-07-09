@@ -14,10 +14,10 @@ Cuando se generan muchas guías diarias, organizarlas manualmente es lento y pro
   - Placa del vehículo.
 - Crea una estructura de carpetas automática:
   
-/Julio_Quincena1/
-├── 01.07.25/
-│ └── ASG833/
-│ └── [PDF]
+--/Julio_Quincena1/
+-- 01.07.25/
+ --- ASG833/
+ --- [PDF]
 ---
 
 ## ▶️ ¿Cómo se usa?
